@@ -14,7 +14,7 @@ and implements 2 categories:
 
 Create a text formula field and use the IMAGE function and use the following image URL:
 
-/apex/slds_icon_*<category>*?name=*\<iconname\>*&widht=<iconWidth>&height=<iconHeight>&color=<color>
+     /apex/slds_icon_*<category>*?name=*\<iconname\>*&widht=*\<iconWidth\>*&height=*\<iconHeight\>*&color=*\<color\>*
    
 *Examples:*   
 * IMAGE("/apex/slds_icon_standard?name=check&width=25&height=25&color=05f535", "")
