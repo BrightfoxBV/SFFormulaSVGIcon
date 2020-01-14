@@ -30,11 +30,12 @@ Create a text formula field and use the IMAGE function and use the following ima
 
 Prerequisite: local installation of ant. (https://ant.apache.org/manual/install.html)
 
-1.Change your current folder to ./install
+1. Change your current folder to ./install
 
-2.Edit the build.properties file and replace with your credentials and optionnaly change the serverurl to https://test.salesforce.com for sandboxes or to your own salesforce instance.
+2. Edit the build.properties file and replace with your credentials and optionnaly change the serverurl to https://test.salesforce.com for sandboxes or to your own salesforce instance.
 
-3.Execute "*ant deployCode -lib ant-salesforce.jar*" to install the metadata to your org.
+3. Execute "*ant deployCode -lib ant-salesforce.jar*" to install the metadata to your org.
 
 **Uninstall**
+
 execute "*ant undeployCode -lib ant-salesforce.jar*"
