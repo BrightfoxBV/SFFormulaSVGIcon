@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>codepkg</fullName>
+    <types>
+    	<name>ApexPage</name>
+    	<members>slds_icon_standard</members>
+    	<members>slds_icon_utility</members>
+	</types>	
+    <types>
+    	<name>ApexClass</name>
+    	<members>slds_icon_standard_controller</members>
+    	<members>slds_icon_utility_controller</members>
+    	<members>Test_slds_icon_standard_controller</members>
+    	<members>Test_slds_icon_utility_controller</members>
+    </types>
+    <version>47.0</version>
+</Package>
