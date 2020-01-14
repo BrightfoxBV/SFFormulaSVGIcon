@@ -16,6 +16,11 @@ Create a text formula field and use the IMAGE function and use the following ima
 
 /apex/slds_icon_*<category>*?name=*\<iconName\>*&width=*\<iconWidth\>*&height=*\<iconHeight\>*&color=*\<hexColorCode\>*
    
+- iconName: name of the SLDS icon name.
+- iconWidth: width in pixels.
+- iconHeight: height in pixels.
+- color: hex color code. **(do not prefix with the # sign)**
+
 *Examples:*   
 * IMAGE("/apex/slds_icon_standard?name=check&width=25&height=25&color=05f535", "")
 
