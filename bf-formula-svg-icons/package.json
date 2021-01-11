@@ -1,6 +1,6 @@
 {
   "name": "@brightfox/sf-formula-svg-icons",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Use SVG Icons in Salesforce formula fields",
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BrightfoxBV/SFFormulaSVGIcon/issues"
   },
-  "homepage": "https://github.com/BrightfoxBV/SFFormulaSVGIcon#readme"
+  "homepage": "https://github.com/BrightfoxBV/SFFormulaSVGIcon#readme",
+  "scripts": {
+    "postinstall": "mkdir testkris"
+  }
 }
