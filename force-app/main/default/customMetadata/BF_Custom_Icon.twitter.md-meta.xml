@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>twitter</label>
+    <protected>false</protected>
+    <values>
+        <field>SVG_Path__c</field>
+        <value xsi:type="xsd:string">&lt;path d=&quot;M384,384H256c-35.296,0-64-28.704-64-64v-32h192c35.328,0,64-28.672,64-64s-28.672-64-64-64H192V64c0-35.328-28.672-64-64-64S64,28.672,64,64v256c0,105.888,86.112,192,192,192h128c35.328,0,64-28.672,64-64S419.328,384,384,384z&quot;/&gt;</value>
+    </values>
+</CustomMetadata>
